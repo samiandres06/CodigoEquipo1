@@ -1,0 +1,21 @@
+body {
+    background-color: cadetblue;
+}
+
+form {
+    width: 300px;
+    padding: 16px;
+    border-radius: 20px;
+    background-color: rgb(247, 253, 253);
+    margin: auto;
+}
+
+form input {
+    border: 2px solid rgb(143, 141, 141);
+    padding: 3px 10px;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
